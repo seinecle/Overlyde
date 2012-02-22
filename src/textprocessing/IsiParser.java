@@ -59,18 +59,17 @@ public class IsiParser {
             if (currLine.startsWith(Main.SCorWC)) {
                 currWCs = currLine.split(";");
                 currWCs[0] = StringUtils.right(currWCs[0],currWCs[0].length()-3);
-
+                //System.out.println(currWCs[0]);
                 if (recordNotOver) {
 
                     for (int i = 0; i < currWCs.length; i++) {
                         HashMultiset<String> yearsForCurrWC = HashMultiset.create();
-                        currWCs[i]= currWCs[i].trim();
+                        currWCs[i]= currWCs[i].toLowerCase().trim();
                         if (map.containsKey(currWCs[i]))
                             yearsForCurrWC.addAll(map.get(currWCs[i]));                            
                         yearsForCurrWC.add(currYear);
 
                         map.put(currWCs[i],yearsForCurrWC);
-                        //System.out.println(currWCs[i]);
                         
 
                     }

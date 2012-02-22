@@ -12,7 +12,7 @@
       <attribute id="freq" title="freq" type="float"></attribute>
     </attributes>
     <nodes>
-      <node id="214" label="urban studies">
+      <node id="214" label="urban studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -20,7 +20,7 @@
         <viz:position x="-289.60144" y="417.60303"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="204" label="statistics and probability">
+      <node id="204" label="statistics and probability" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -28,7 +28,7 @@
         <viz:position x="78.27603" y="-2.0469167"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="208" label="thermodynamics">
+      <node id="208" label="thermodynamics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -36,7 +36,7 @@
         <viz:position x="305.28058" y="-157.68045"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="220" label="zoology">
+      <node id="220" label="zoology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -44,7 +44,7 @@
         <viz:position x="-1.4322029" y="-183.63698"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="138" label="multidisciplinary sciences">
+      <node id="138" label="multidisciplinary sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -52,7 +52,7 @@
         <viz:position x="-3.465321" y="-114.807556"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="139" label="mycology">
+      <node id="139" label="mycology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -60,21 +60,21 @@
         <viz:position x="-25.044283" y="-179.17422"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="140" label="nanoscience and nanotechnology">
+      <node id="140" label="nanoscience and nanotechnology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="238.17642" y="-115.70259"></viz:position>
       </node>
-      <node id="143" label="nuclear science and technology">
+      <node id="143" label="nuclear science and technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="265.77563" y="-99.662445"></viz:position>
       </node>
-      <node id="141" label="neuroimaging">
+      <node id="141" label="neuroimaging" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -82,7 +82,7 @@
         <viz:position x="-95.06987" y="11.532427"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="142" label="neurosciences">
+      <node id="142" label="neurosciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -90,7 +90,7 @@
         <viz:position x="-81.203995" y="-22.14929"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="145" label="nutrition and dietetics">
+      <node id="145" label="nutrition and dietetics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -98,7 +98,7 @@
         <viz:position x="-73.39555" y="-120.63063"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="148" label="oncology">
+      <node id="148" label="oncology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -106,7 +106,7 @@
         <viz:position x="-93.3102" y="-116.01676"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="133" label="meteorology and atmospheric sciences">
+      <node id="133" label="meteorology and atmospheric sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -114,7 +114,7 @@
         <viz:position x="211.23628" y="-292.93756"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="136" label="mineralogy">
+      <node id="136" label="mineralogy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -122,7 +122,7 @@
         <viz:position x="244.29536" y="-298.7432"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="147" label="oceanography">
+      <node id="147" label="oceanography" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -130,7 +130,7 @@
         <viz:position x="152.1714" y="-282.96616"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="152" label="ornithology">
+      <node id="152" label="ornithology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -138,7 +138,7 @@
         <viz:position x="51.686607" y="-236.3729"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="177" label="psychology, biological">
+      <node id="177" label="psychology, biological" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -146,7 +146,7 @@
         <viz:position x="-217.6741" y="137.00266"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="180" label="psychology, educational">
+      <node id="180" label="psychology, educational" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -154,7 +154,7 @@
         <viz:position x="-288.85767" y="234.94951"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="183" label="psychology, multidisciplinary">
+      <node id="183" label="psychology, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -162,7 +162,7 @@
         <viz:position x="-251.73439" y="226.23868"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="184" label="psychology, psychoanalysis">
+      <node id="184" label="psychology, psychoanalysis" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -170,7 +170,7 @@
         <viz:position x="-232.50092" y="160.5085"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="188" label="radiology, nuclear medicine and medical imaging">
+      <node id="188" label="radiology, nuclear medicine and medical imaging" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -178,7 +178,7 @@
         <viz:position x="-62.41983" y="-10.402139"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="192" label="respiratory system">
+      <node id="192" label="respiratory system" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -186,15 +186,63 @@
         <viz:position x="-140.80751" y="-79.817314"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="206" label="surgery">
+      <node id="206" label="surgery" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="2.1666667" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="2.5" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="2.8333335" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="3.0" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="3.1666665" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="3.5" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="3.8333333" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="3.75" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="3.25" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="3.0" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="2.75" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="2.5" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="2.25" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="1.25" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-160.82617" y="-48.803402"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="210" label="transplantation">
+      <node id="210" label="transplantation" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -202,7 +250,7 @@
         <viz:position x="-152.84134" y="-93.67262"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="151" label="optics">
+      <node id="151" label="optics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -210,14 +258,14 @@
         <viz:position x="292.1092" y="-72.81822"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="161" label="physics, applied">
+      <node id="161" label="physics, applied" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="282.22595" y="-114.45598"></viz:position>
       </node>
-      <node id="162" label="physics, atomic, molecular and chemical">
+      <node id="162" label="physics, atomic, molecular and chemical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -225,14 +273,14 @@
         <viz:position x="245.72449" y="-106.61727"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="163" label="physics, condensed matter">
+      <node id="163" label="physics, condensed matter" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="268.92636" y="-115.6301"></viz:position>
       </node>
-      <node id="202" label="spectroscopy">
+      <node id="202" label="spectroscopy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -240,7 +288,7 @@
         <viz:position x="181.07924" y="-110.60963"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="201" label="soil science">
+      <node id="201" label="soil science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -248,7 +296,7 @@
         <viz:position x="118.661514" y="-269.32788"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="218" label="water resources">
+      <node id="218" label="water resources" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -256,7 +304,7 @@
         <viz:position x="192.70131" y="-261.29932"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="219" label="women's studies">
+      <node id="219" label="women's studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -264,7 +312,7 @@
         <viz:position x="-282.32547" y="278.2785"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="217" label="virology">
+      <node id="217" label="virology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -272,7 +320,7 @@
         <viz:position x="-86.23632" y="-144.4553"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="215" label="urology and nephrology">
+      <node id="215" label="urology and nephrology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -280,7 +328,7 @@
         <viz:position x="-154.31853" y="-118.50005"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="212" label="transportation science and technology">
+      <node id="212" label="transportation science and technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -288,7 +336,7 @@
         <viz:position x="305.11295" y="-44.681927"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="1" label="agricultural economics and policy">
+      <node id="1" label="agricultural economics and policy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -296,7 +344,7 @@
         <viz:position x="-243.15912" y="395.47147"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="11" label="area studies">
+      <node id="11" label="area studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -304,7 +352,7 @@
         <viz:position x="-302.24695" y="410.32892"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="121" label="mathematical and computational biology">
+      <node id="121" label="mathematical and computational biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -312,7 +360,7 @@
         <viz:position x="17.232918" y="-93.686195"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="124" label="mathematics, interdisciplinary applications">
+      <node id="124" label="mathematics, interdisciplinary applications" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -320,7 +368,7 @@
         <viz:position x="235.1617" y="-30.81025"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="125" label="mechanics">
+      <node id="125" label="mechanics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -328,14 +376,14 @@
         <viz:position x="319.4988" y="-124.92796"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="132" label="metallurgy and metallurgical engineering">
+      <node id="132" label="metallurgy and metallurgical engineering" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="283.4455" y="-139.24284"></viz:position>
       </node>
-      <node id="111" label="management">
+      <node id="111" label="management" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -343,7 +391,7 @@
         <viz:position x="-246.03886" y="353.27866"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="149" label="operations research and management science">
+      <node id="149" label="operations research and management science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -351,7 +399,7 @@
         <viz:position x="263.01416" y="14.437735"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="176" label="psychology, applied">
+      <node id="176" label="psychology, applied" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -359,7 +407,7 @@
         <viz:position x="-281.08722" y="304.5134"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="179" label="psychology, developmental">
+      <node id="179" label="psychology, developmental" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -367,7 +415,7 @@
         <viz:position x="-274.10336" y="219.04013"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="155" label="paleontology">
+      <node id="155" label="paleontology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -375,7 +423,7 @@
         <viz:position x="186.73776" y="-295.29407"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="190" label="remote sensing">
+      <node id="190" label="remote sensing" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -383,7 +431,7 @@
         <viz:position x="240.47757" y="-225.0436"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="194" label="robotics">
+      <node id="194" label="robotics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -391,7 +439,7 @@
         <viz:position x="300.1681" y="-13.404086"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="207" label="telecommunications">
+      <node id="207" label="telecommunications" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -399,7 +447,7 @@
         <viz:position x="288.53104" y="-39.295067"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="127" label="medical informatics">
+      <node id="127" label="medical informatics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -407,7 +455,7 @@
         <viz:position x="-26.337427" y="11.288112"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="128" label="medical laboratory technology">
+      <node id="128" label="medical laboratory technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -415,7 +463,7 @@
         <viz:position x="-78.99065" y="-86.49727"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="129" label="medicine, general and internal">
+      <node id="129" label="medicine, general and internal" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -423,7 +471,7 @@
         <viz:position x="-132.23195" y="-37.056313"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="130" label="medicine, legal">
+      <node id="130" label="medicine, legal" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -431,7 +479,7 @@
         <viz:position x="-50.0295" y="-46.1243"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="131" label="medicine, research and experimental">
+      <node id="131" label="medicine, research and experimental" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -439,7 +487,7 @@
         <viz:position x="-69.97095" y="-101.90417"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="134" label="microbiology">
+      <node id="134" label="microbiology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -447,7 +495,7 @@
         <viz:position x="-53.12404" y="-168.06659"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="135" label="microscopy">
+      <node id="135" label="microscopy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -455,21 +503,21 @@
         <viz:position x="59.460407" y="-110.66873"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="137" label="mining and mineral processing">
+      <node id="137" label="mining and mineral processing" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="292.26782" y="-173.1681"></viz:position>
       </node>
-      <node id="116" label="materials science, coatings and films">
+      <node id="116" label="materials science, coatings and films" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="266.83392" y="-138.57681"></viz:position>
       </node>
-      <node id="117" label="materials science, composites">
+      <node id="117" label="materials science, composites" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -477,7 +525,7 @@
         <viz:position x="297.39432" y="-143.42595"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="119" label="materials science, paper and wood">
+      <node id="119" label="materials science, paper and wood" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -485,7 +533,7 @@
         <viz:position x="178.11871" y="-241.31055"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="173" label="polymer science">
+      <node id="173" label="polymer science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -493,7 +541,7 @@
         <viz:position x="223.36084" y="-146.99608"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="122" label="mathematics">
+      <node id="122" label="mathematics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -501,7 +549,7 @@
         <viz:position x="310.56705" y="5.1892433"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="123" label="mathematics, applied">
+      <node id="123" label="mathematics, applied" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -509,7 +557,7 @@
         <viz:position x="297.00452" y="-5.1010656"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="164" label="physics, fluids and plasmas">
+      <node id="164" label="physics, fluids and plasmas" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -517,7 +565,7 @@
         <viz:position x="327.09323" y="-106.81177"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="166" label="physics, multidisciplinary">
+      <node id="166" label="physics, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -525,7 +573,7 @@
         <viz:position x="310.88617" y="-91.21487"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="0" label="acoustics">
+      <node id="0" label="acoustics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -533,7 +581,7 @@
         <viz:position x="234.28221" y="-58.005558"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="13" label="automation and control systems">
+      <node id="13" label="automation and control systems" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -541,7 +589,7 @@
         <viz:position x="290.22546" y="-27.899097"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="2" label="agricultural engineering">
+      <node id="2" label="agricultural engineering" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -549,7 +597,7 @@
         <viz:position x="123.26706" y="-224.94937"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="3" label="agriculture, dairy and animal science">
+      <node id="3" label="agriculture, dairy and animal science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -557,7 +605,7 @@
         <viz:position x="-39.440735" y="-211.62495"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="4" label="agriculture, multidisciplinary">
+      <node id="4" label="agriculture, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -565,7 +613,7 @@
         <viz:position x="49.81285" y="-190.4049"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="5" label="agronomy">
+      <node id="5" label="agronomy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -573,7 +621,7 @@
         <viz:position x="42.671417" y="-226.46135"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="25" label="chemistry, analytical">
+      <node id="25" label="chemistry, analytical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -581,7 +629,7 @@
         <viz:position x="119.18291" y="-130.17355"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="26" label="chemistry, applied">
+      <node id="26" label="chemistry, applied" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -589,7 +637,7 @@
         <viz:position x="111.66806" y="-152.84322"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="27" label="chemistry, inorganic and nuclear">
+      <node id="27" label="chemistry, inorganic and nuclear" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -597,7 +645,7 @@
         <viz:position x="194.5646" y="-122.01015"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="28" label="chemistry, medicinal">
+      <node id="28" label="chemistry, medicinal" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -605,7 +653,7 @@
         <viz:position x="19.288525" y="-114.71174"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="55" label="emergency medicine">
+      <node id="55" label="emergency medicine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -613,7 +661,7 @@
         <viz:position x="-180.54109" y="-35.1602"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="83" label="gastroenterology and hepatology">
+      <node id="83" label="gastroenterology and hepatology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -621,7 +669,7 @@
         <viz:position x="-143.99466" y="-107.56984"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="80" label="fisheries">
+      <node id="80" label="fisheries" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -629,7 +677,7 @@
         <viz:position x="60.728733" y="-261.33902"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="84" label="genetics and heredity">
+      <node id="84" label="genetics and heredity" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -637,7 +685,7 @@
         <viz:position x="-35.543747" y="-154.16629"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="92" label="health care sciences and services">
+      <node id="92" label="health care sciences and services" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -645,7 +693,7 @@
         <viz:position x="-164.70923" y="39.98638"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="93" label="health policy and services">
+      <node id="93" label="health policy and services" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -653,7 +701,7 @@
         <viz:position x="-228.20451" y="185.48329"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="94" label="hematology">
+      <node id="94" label="hematology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -661,7 +709,7 @@
         <viz:position x="-108.80577" y="-103.41873"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="101" label="immunology">
+      <node id="101" label="immunology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -669,14 +717,14 @@
         <viz:position x="-106.66854" y="-134.24574"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="105" label="instruments and instrumentation">
+      <node id="105" label="instruments and instrumentation" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="265.67496" y="-81.73917"></viz:position>
       </node>
-      <node id="113" label="materials science, biomaterials">
+      <node id="113" label="materials science, biomaterials" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -684,21 +732,21 @@
         <viz:position x="71.87036" y="-95.020424"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="114" label="materials science, ceramics">
+      <node id="114" label="materials science, ceramics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="273.38776" y="-128.49918"></viz:position>
       </node>
-      <node id="115" label="materials science, characterization and testing">
+      <node id="115" label="materials science, characterization and testing" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="290.82468" y="-129.16542"></viz:position>
       </node>
-      <node id="109" label="limnology">
+      <node id="109" label="limnology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -706,7 +754,7 @@
         <viz:position x="157.97655" y="-262.19467"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="112" label="marine and freshwater biology">
+      <node id="112" label="marine and freshwater biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -714,14 +762,14 @@
         <viz:position x="85.2767" y="-262.52243"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="118" label="materials science, multidisciplinary">
+      <node id="118" label="materials science, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="256.10016" y="-126.93712"></viz:position>
       </node>
-      <node id="120" label="materials science, textiles">
+      <node id="120" label="materials science, textiles" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -729,7 +777,7 @@
         <viz:position x="202.1572" y="-172.0192"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="185" label="psychology, social">
+      <node id="185" label="psychology, social" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -737,15 +785,107 @@
         <viz:position x="-272.95557" y="264.3461"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="195" label="social issues">
+      <node id="195" label="social issues" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2007-07-01" end ="2007-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2007-08-01" end ="2007-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2007-09-01" end ="2007-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2007-10-01" end ="2007-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2007-11-01" end ="2007-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2007-12-01" end ="2007-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2008-01-01" end ="2008-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2008-02-01" end ="2008-02-29"></attvalue>
+<attvalue for="freq" value="1.75" start ="2008-03-01" end ="2008-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2008-04-01" end ="2008-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2008-05-01" end ="2008-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="2.4166667" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="3.25" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="3.6666665" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="4.083333" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="4.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="4.916667" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="5.3333335" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="5.75" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="6.1666665" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="6.5833335" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="7.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="6.5" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="6.0" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="5.5" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="5.0" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="4.5" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="4.0" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="2.5" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="2.3333335" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="3.0" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="3.6666665" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="4.0" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="4.3333335" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="4.6666665" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="4.6666665" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="4.3333335" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="3.6666665" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="3.0" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="2.3333335" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="2.0" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-267.65698" y="287.23727"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="196" label="social sciences, biomedical">
+      <node id="196" label="social sciences, biomedical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -753,7 +893,7 @@
         <viz:position x="-233.17496" y="206.11644"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="199" label="social work">
+      <node id="199" label="social work" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -761,15 +901,52 @@
         <viz:position x="-268.21188" y="249.14938"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="205" label="substance abuse">
+      <node id="205" label="substance abuse" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="1.25" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-202.70462" y="140.14282"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="211" label="transportation">
+      <node id="211" label="transportation" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -777,7 +954,7 @@
         <viz:position x="-236.60724" y="253.59525"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="213" label="tropical medicine">
+      <node id="213" label="tropical medicine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -785,7 +962,7 @@
         <viz:position x="-133.29886" y="-22.316996"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="216" label="veterinary sciences">
+      <node id="216" label="veterinary sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -793,7 +970,7 @@
         <viz:position x="-91.86181" y="-187.96492"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="191" label="reproductive biology">
+      <node id="191" label="reproductive biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -801,7 +978,7 @@
         <viz:position x="-87.66973" y="-159.29686"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="209" label="toxicology">
+      <node id="209" label="toxicology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -809,7 +986,7 @@
         <viz:position x="-13.8737135" y="-102.74971"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="21" label="business">
+      <node id="21" label="business" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -817,7 +994,7 @@
         <viz:position x="-257.43182" y="364.8163"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="22" label="business, finance">
+      <node id="22" label="business, finance" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -825,15 +1002,30 @@
         <viz:position x="-275.52643" y="424.16333"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="33" label="communication">
+      <node id="33" label="communication" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-294.64215" y="314.15222"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="42" label="criminology and penology">
+      <node id="42" label="criminology and penology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -841,7 +1033,7 @@
         <viz:position x="-295.3514" y="270.86633"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="51" label="education and educational research">
+      <node id="51" label="education and educational research" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -849,7 +1041,7 @@
         <viz:position x="-313.38232" y="256.80704"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="53" label="education, special">
+      <node id="53" label="education, special" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -857,7 +1049,7 @@
         <viz:position x="-283.0857" y="201.41502"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="75" label="ergonomics">
+      <node id="75" label="ergonomics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -865,7 +1057,7 @@
         <viz:position x="-230.15213" y="222.21419"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="79" label="family studies">
+      <node id="79" label="family studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -873,7 +1065,7 @@
         <viz:position x="-279.7499" y="255.33864"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="10" label="anthropology">
+      <node id="10" label="anthropology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -881,7 +1073,7 @@
         <viz:position x="-323.4429" y="361.7859"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="45" label="demography">
+      <node id="45" label="demography" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -889,7 +1081,7 @@
         <viz:position x="-286.4052" y="347.5433"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="50" label="economics">
+      <node id="50" label="economics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -897,7 +1089,7 @@
         <viz:position x="-263.81027" y="401.5951"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="74" label="environmental studies">
+      <node id="74" label="environmental studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -905,7 +1097,7 @@
         <viz:position x="-289.44373" y="402.75238"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="76" label="ethics">
+      <node id="76" label="ethics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -913,7 +1105,7 @@
         <viz:position x="-274.02722" y="363.04016"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="97" label="history of social sciences">
+      <node id="97" label="history of social sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -921,7 +1113,7 @@
         <viz:position x="-278.77847" y="408.6834"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="34" label="computer science, artificial intelligence">
+      <node id="34" label="computer science, artificial intelligence" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -929,7 +1121,7 @@
         <viz:position x="256.62985" y="-22.989258"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="36" label="computer science, hardware and architecture">
+      <node id="36" label="computer science, hardware and architecture" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -937,7 +1129,7 @@
         <viz:position x="278.40475" y="-31.340937"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="37" label="computer science, information systems">
+      <node id="37" label="computer science, information systems" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -945,7 +1137,7 @@
         <viz:position x="245.47049" y="-5.0220113"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="39" label="computer science, software engineering">
+      <node id="39" label="computer science, software engineering" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -953,7 +1145,7 @@
         <viz:position x="281.037" y="-12.679043"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="12" label="astronomy and astrophysics">
+      <node id="12" label="astronomy and astrophysics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -961,7 +1153,7 @@
         <viz:position x="373.94504" y="-81.010475"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="165" label="physics, mathematical">
+      <node id="165" label="physics, mathematical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -969,7 +1161,7 @@
         <viz:position x="317.1662" y="-75.60201"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="167" label="physics, nuclear">
+      <node id="167" label="physics, nuclear" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -977,7 +1169,7 @@
         <viz:position x="339.93988" y="-91.56736"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="168" label="physics, particles and fields">
+      <node id="168" label="physics, particles and fields" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="17"></attvalue>
         </attvalues>
@@ -985,7 +1177,7 @@
         <viz:position x="353.7277" y="-84.58331"></viz:position>
         <viz:color r="139" g="35" b="255"></viz:color>
       </node>
-      <node id="41" label="construction and building technology">
+      <node id="41" label="construction and building technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -993,7 +1185,7 @@
         <viz:position x="320.0145" y="-176.59422"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="57" label="energy and fuels">
+      <node id="57" label="energy and fuels" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1001,7 +1193,7 @@
         <viz:position x="265.54495" y="-175.7008"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="64" label="engineering, geological">
+      <node id="64" label="engineering, geological" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1009,7 +1201,7 @@
         <viz:position x="249.67116" y="-283.2277"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="67" label="engineering, marine">
+      <node id="67" label="engineering, marine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1017,7 +1209,7 @@
         <viz:position x="304.73764" y="-188.0276"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="65" label="engineering, industrial">
+      <node id="65" label="engineering, industrial" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -1025,7 +1217,7 @@
         <viz:position x="266.09818" y="1.5759901"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="68" label="engineering, mechanical">
+      <node id="68" label="engineering, mechanical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1033,7 +1225,7 @@
         <viz:position x="322.23416" y="-134.58273"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="69" label="engineering, multidisciplinary">
+      <node id="69" label="engineering, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1041,7 +1233,7 @@
         <viz:position x="285.25766" y="-97.569"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="70" label="engineering, ocean">
+      <node id="70" label="engineering, ocean" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1049,7 +1241,7 @@
         <viz:position x="264.43704" y="-237.7286"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="19" label="biophysics">
+      <node id="19" label="biophysics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1057,7 +1249,7 @@
         <viz:position x="-9.109749" y="-130.50522"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="20" label="biotechnology and applied microbiology">
+      <node id="20" label="biotechnology and applied microbiology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1065,7 +1257,7 @@
         <viz:position x="5.5155" y="-154.06065"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="23" label="cardiac and cardiovascular systems">
+      <node id="23" label="cardiac and cardiovascular systems" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1073,15 +1265,63 @@
         <viz:position x="-130.33383" y="-61.97058"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="24" label="cell biology">
+      <node id="24" label="cell biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.25" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="2.25" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="2.5" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="2.75" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="3.25" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="3.75" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="3.9166667" start ="2007-07-01" end ="2007-07-31"></attvalue>
+<attvalue for="freq" value="3.8333333" start ="2007-08-01" end ="2007-08-31"></attvalue>
+<attvalue for="freq" value="3.75" start ="2007-09-01" end ="2007-09-30"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2007-10-01" end ="2007-10-31"></attvalue>
+<attvalue for="freq" value="3.5833333" start ="2007-11-01" end ="2007-11-30"></attvalue>
+<attvalue for="freq" value="3.5" start ="2007-12-01" end ="2007-12-31"></attvalue>
+<attvalue for="freq" value="3.4166667" start ="2008-01-01" end ="2008-01-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2008-02-01" end ="2008-02-29"></attvalue>
+<attvalue for="freq" value="3.25" start ="2008-03-01" end ="2008-03-31"></attvalue>
+<attvalue for="freq" value="3.1666667" start ="2008-04-01" end ="2008-04-30"></attvalue>
+<attvalue for="freq" value="3.0833333" start ="2008-05-01" end ="2008-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="2.5" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="1.5" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-42.57318" y="-120.858795"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="29" label="chemistry, multidisciplinary">
+      <node id="29" label="chemistry, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -1089,7 +1329,7 @@
         <viz:position x="159.33835" y="-125.87236"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="30" label="chemistry, organic">
+      <node id="30" label="chemistry, organic" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -1097,7 +1337,7 @@
         <viz:position x="138.73315" y="-122.73096"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="31" label="chemistry, physical">
+      <node id="31" label="chemistry, physical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -1105,7 +1345,7 @@
         <viz:position x="224.10767" y="-133.48775"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="38" label="computer science, interdisciplinary applications">
+      <node id="38" label="computer science, interdisciplinary applications" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -1113,7 +1353,7 @@
         <viz:position x="157.422" y="-76.49559"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="40" label="computer science, theory and methods">
+      <node id="40" label="computer science, theory and methods" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -1121,7 +1361,7 @@
         <viz:position x="268.14413" y="-16.818672"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="58" label="engineering, aerospace">
+      <node id="58" label="engineering, aerospace" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1129,7 +1369,7 @@
         <viz:position x="335.397" y="-78.906746"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="62" label="engineering, electrical and electronic">
+      <node id="62" label="engineering, electrical and electronic" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -1137,7 +1377,7 @@
         <viz:position x="285.55478" y="-56.844543"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="66" label="engineering, manufacturing">
+      <node id="66" label="engineering, manufacturing" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="12"></attvalue>
         </attvalues>
@@ -1145,7 +1385,7 @@
         <viz:position x="312.12796" y="-64.38193"></viz:position>
         <viz:color r="0" g="255" b="255"></viz:color>
       </node>
-      <node id="85" label="geochemistry and geophysics">
+      <node id="85" label="geochemistry and geophysics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1153,7 +1393,7 @@
         <viz:position x="232.02414" y="-287.51947"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="88" label="geology">
+      <node id="88" label="geology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1161,7 +1401,7 @@
         <viz:position x="225.52579" y="-294.40338"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="89" label="geosciences, multidisciplinary">
+      <node id="89" label="geosciences, multidisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1169,7 +1409,7 @@
         <viz:position x="208.72673" y="-283.55075"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="100" label="imaging science and photographic technology">
+      <node id="100" label="imaging science and photographic technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1177,7 +1417,7 @@
         <viz:position x="220.9743" y="-214.51219"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="48" label="developmental biology">
+      <node id="48" label="developmental biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1185,7 +1425,7 @@
         <viz:position x="-44.881813" y="-135.57776"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="56" label="endocrinology and metabolism">
+      <node id="56" label="endocrinology and metabolism" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1193,7 +1433,7 @@
         <viz:position x="-83.74268" y="-101.92702"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="72" label="entomology">
+      <node id="72" label="entomology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -1201,7 +1441,7 @@
         <viz:position x="-3.9640357" y="-218.0887"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="78" label="evolutionary biology">
+      <node id="78" label="evolutionary biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -1209,7 +1449,7 @@
         <viz:position x="17.664644" y="-194.76651"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="77" label="ethnic studies">
+      <node id="77" label="ethnic studies" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -1217,7 +1457,7 @@
         <viz:position x="-309.75543" y="355.67505"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="86" label="geography">
+      <node id="86" label="geography" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1225,7 +1465,7 @@
         <viz:position x="-308.6633" y="420.37653"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="90" label="geriatrics and gerontology">
+      <node id="90" label="geriatrics and gerontology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -1233,7 +1473,7 @@
         <viz:position x="-119.79607" y="-3.9473553"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="91" label="gerontology">
+      <node id="91" label="gerontology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -1241,7 +1481,7 @@
         <viz:position x="-264.67755" y="223.84903"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="81" label="food science and technology">
+      <node id="81" label="food science and technology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -1249,7 +1489,7 @@
         <viz:position x="35.785614" y="-170.54263"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="98" label="horticulture">
+      <node id="98" label="horticulture" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -1257,7 +1497,7 @@
         <viz:position x="23.673412" y="-217.36087"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="103" label="infectious diseases">
+      <node id="103" label="infectious diseases" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -1265,7 +1505,7 @@
         <viz:position x="-124.80741" y="-122.24718"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="106" label="integrative and complementary medicine">
+      <node id="106" label="integrative and complementary medicine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -1273,7 +1513,7 @@
         <viz:position x="-42.759995" y="-61.29522"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="96" label="history and philosophy of science">
+      <node id="96" label="history and philosophy of science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -1281,15 +1521,107 @@
         <viz:position x="-109.64283" y="40.84393"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="126" label="medical ethics">
+      <node id="126" label="medical ethics" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="2.3333335" start ="2007-07-01" end ="2007-07-31"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2007-08-01" end ="2007-08-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2007-09-01" end ="2007-09-30"></attvalue>
+<attvalue for="freq" value="6.3333335" start ="2007-10-01" end ="2007-10-31"></attvalue>
+<attvalue for="freq" value="7.666667" start ="2007-11-01" end ="2007-11-30"></attvalue>
+<attvalue for="freq" value="9.0" start ="2007-12-01" end ="2007-12-31"></attvalue>
+<attvalue for="freq" value="10.333333" start ="2008-01-01" end ="2008-01-31"></attvalue>
+<attvalue for="freq" value="11.666666" start ="2008-02-01" end ="2008-02-29"></attvalue>
+<attvalue for="freq" value="13.0" start ="2008-03-01" end ="2008-03-31"></attvalue>
+<attvalue for="freq" value="14.333333" start ="2008-04-01" end ="2008-04-30"></attvalue>
+<attvalue for="freq" value="15.666667" start ="2008-05-01" end ="2008-05-31"></attvalue>
+<attvalue for="freq" value="17.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="16.916666" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="16.833334" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="16.75" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="16.666666" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="16.583334" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="16.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="16.416666" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="16.333334" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="16.25" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="16.166666" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="16.083334" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="16.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="15.5" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="15.0" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="14.5" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="14.0" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="13.5" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="13.0" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="12.5" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="12.0" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="11.5" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="11.0" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="10.5" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="10.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="10.25" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="10.5" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="10.75" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="11.0" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="11.25" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="11.5" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="11.75" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="12.0" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="12.25" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="12.5" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="12.75" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="13.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="12.0" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="11.0" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="10.0" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="9.0" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="8.0" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="7.0" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="6.0" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="4.0" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-144.80962" y="59.63845"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="110" label="linguistics">
+      <node id="110" label="linguistics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -1297,15 +1629,140 @@
         <viz:position x="-290.09793" y="197.28207"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="175" label="psychology">
+      <node id="175" label="psychology" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2001-07-01" end ="2001-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2001-08-01" end ="2001-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2001-09-01" end ="2001-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2001-10-01" end ="2001-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2001-11-01" end ="2001-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2001-12-01" end ="2001-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2002-01-01" end ="2002-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2002-02-01" end ="2002-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2002-03-01" end ="2002-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2002-04-01" end ="2002-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2002-05-01" end ="2002-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2002-07-01" end ="2002-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2002-08-01" end ="2002-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2002-09-01" end ="2002-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2002-10-01" end ="2002-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2002-11-01" end ="2002-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2002-12-01" end ="2002-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2003-01-01" end ="2003-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2003-02-01" end ="2003-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2003-03-01" end ="2003-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2003-04-01" end ="2003-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2003-05-01" end ="2003-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2004-07-01" end ="2004-07-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2004-08-01" end ="2004-08-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2004-09-01" end ="2004-09-30"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2004-10-01" end ="2004-10-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2004-11-01" end ="2004-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2004-12-01" end ="2004-12-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2005-01-01" end ="2005-01-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2005-02-01" end ="2005-02-28"></attvalue>
+<attvalue for="freq" value="2.5" start ="2005-03-01" end ="2005-03-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2005-04-01" end ="2005-04-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2005-05-01" end ="2005-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="3.0833333" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="3.1666667" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="3.25" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="3.4166667" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="3.5" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="3.5833333" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="3.75" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="3.8333333" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="3.9166667" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="3.9166667" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="3.8333333" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="3.75" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="3.5833333" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="3.5" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="3.4166667" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="3.25" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="3.1666667" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="3.0833333" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="2.9166667" start ="2007-07-01" end ="2007-07-31"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2007-08-01" end ="2007-08-31"></attvalue>
+<attvalue for="freq" value="2.75" start ="2007-09-01" end ="2007-09-30"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2007-10-01" end ="2007-10-31"></attvalue>
+<attvalue for="freq" value="2.5833333" start ="2007-11-01" end ="2007-11-30"></attvalue>
+<attvalue for="freq" value="2.5" start ="2007-12-01" end ="2007-12-31"></attvalue>
+<attvalue for="freq" value="2.4166667" start ="2008-01-01" end ="2008-01-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2008-02-01" end ="2008-02-29"></attvalue>
+<attvalue for="freq" value="2.25" start ="2008-03-01" end ="2008-03-31"></attvalue>
+<attvalue for="freq" value="2.1666667" start ="2008-04-01" end ="2008-04-30"></attvalue>
+<attvalue for="freq" value="2.0833333" start ="2008-05-01" end ="2008-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="2.0833333" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="2.1666667" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="2.25" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="2.4166667" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="2.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="2.5833333" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="2.75" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="2.9166667" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="3.25" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="3.75" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="4.0" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="4.25" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="4.5" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="4.75" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="5.25" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="5.5" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="5.75" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="6.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="5.9166665" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="5.8333335" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="5.75" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="5.6666665" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="5.5833335" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="5.5" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="5.4166665" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="5.3333335" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="5.25" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="5.1666665" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="5.0833335" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="4.6666665" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="4.3333335" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="3.6666665" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="3.0" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="2.3333335" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="2.0" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-188.74474" y="117.2419"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="7" label="anatomy and morphology">
+      <node id="7" label="anatomy and morphology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1313,7 +1770,7 @@
         <viz:position x="-53.96374" y="-88.70735"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="8" label="andrology">
+      <node id="8" label="andrology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1321,7 +1778,7 @@
         <viz:position x="-73.87276" y="-139.936"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="9" label="anesthesiology">
+      <node id="9" label="anesthesiology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1329,15 +1786,74 @@
         <viz:position x="-155.59865" y="1.5104053"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="14" label="behavioral sciences">
+      <node id="14" label="behavioral sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2004-07-01" end ="2004-07-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2004-08-01" end ="2004-08-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2004-09-01" end ="2004-09-30"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2004-10-01" end ="2004-10-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2004-11-01" end ="2004-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2004-12-01" end ="2004-12-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2005-01-01" end ="2005-01-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2005-02-01" end ="2005-02-28"></attvalue>
+<attvalue for="freq" value="2.5" start ="2005-03-01" end ="2005-03-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2005-04-01" end ="2005-04-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2005-05-01" end ="2005-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="2.5" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="1.5" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-87.924194" y="1.569002"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="15" label="biochemical research methods">
+      <node id="15" label="biochemical research methods" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1345,7 +1861,7 @@
         <viz:position x="27.783188" y="-132.50204"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="18" label="biology">
+      <node id="18" label="biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1353,7 +1869,7 @@
         <viz:position x="-18.219713" y="-145.0298"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="44" label="crystallography">
+      <node id="44" label="crystallography" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -1361,7 +1877,7 @@
         <viz:position x="182.50873" y="-127.9704"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="52" label="education, scientific disciplines">
+      <node id="52" label="education, scientific disciplines" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -1369,14 +1885,14 @@
         <viz:position x="-62.455166" y="49.01921"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="54" label="electrochemistry">
+      <node id="54" label="electrochemistry" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="2"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="239.68373" y="-144.35962"></viz:position>
       </node>
-      <node id="60" label="engineering, chemical">
+      <node id="60" label="engineering, chemical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="8"></attvalue>
         </attvalues>
@@ -1384,7 +1900,7 @@
         <viz:position x="230.35344" y="-174.31784"></viz:position>
         <viz:color r="0" g="0" b="255"></viz:color>
       </node>
-      <node id="71" label="engineering, petroleum">
+      <node id="71" label="engineering, petroleum" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1392,7 +1908,7 @@
         <viz:position x="244.58348" y="-255.8075"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="73" label="environmental sciences">
+      <node id="73" label="environmental sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -1400,7 +1916,7 @@
         <viz:position x="147.28928" y="-238.72234"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="82" label="forestry">
+      <node id="82" label="forestry" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -1408,7 +1924,7 @@
         <viz:position x="95.203384" y="-265.909"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="87" label="geography, physical">
+      <node id="87" label="geography, physical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="9"></attvalue>
         </attvalues>
@@ -1416,7 +1932,7 @@
         <viz:position x="171.90611" y="-281.12393"></viz:position>
         <viz:color r="128" g="0" b="0"></viz:color>
       </node>
-      <node id="153" label="orthopedics">
+      <node id="153" label="orthopedics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1424,7 +1940,7 @@
         <viz:position x="-180.13116" y="-17.47565"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="154" label="otorhinolaryngology">
+      <node id="154" label="otorhinolaryngology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1432,7 +1948,7 @@
         <viz:position x="-175.52577" y="-53.91879"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="156" label="parasitology">
+      <node id="156" label="parasitology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -1440,7 +1956,7 @@
         <viz:position x="-70.77533" y="-165.60918"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="160" label="pharmacology and pharmacy">
+      <node id="160" label="pharmacology and pharmacy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1448,15 +1964,129 @@
         <viz:position x="-55.334244" y="-69.3656"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="174" label="psychiatry">
+      <node id="174" label="psychiatry" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2003-07-01" end ="2003-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2003-08-01" end ="2003-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2003-09-01" end ="2003-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2003-10-01" end ="2003-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2003-11-01" end ="2003-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2003-12-01" end ="2003-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2004-01-01" end ="2004-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2004-02-01" end ="2004-02-29"></attvalue>
+<attvalue for="freq" value="1.75" start ="2004-03-01" end ="2004-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2004-04-01" end ="2004-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2004-05-01" end ="2004-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2004-07-01" end ="2004-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2004-08-01" end ="2004-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2004-09-01" end ="2004-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2004-10-01" end ="2004-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2004-11-01" end ="2004-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2004-12-01" end ="2004-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2005-01-01" end ="2005-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2005-02-01" end ="2005-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2005-03-01" end ="2005-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2005-04-01" end ="2005-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2005-05-01" end ="2005-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="2.5" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="3.1666667" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="3.3333333" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="3.6666667" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="3.8333335" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="4.0" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="4.1666665" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="4.3333335" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="4.5" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="4.6666665" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="4.8333335" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="4.9166665" start ="2007-07-01" end ="2007-07-31"></attvalue>
+<attvalue for="freq" value="4.8333335" start ="2007-08-01" end ="2007-08-31"></attvalue>
+<attvalue for="freq" value="4.75" start ="2007-09-01" end ="2007-09-30"></attvalue>
+<attvalue for="freq" value="4.6666665" start ="2007-10-01" end ="2007-10-31"></attvalue>
+<attvalue for="freq" value="4.5833335" start ="2007-11-01" end ="2007-11-30"></attvalue>
+<attvalue for="freq" value="4.5" start ="2007-12-01" end ="2007-12-31"></attvalue>
+<attvalue for="freq" value="4.4166665" start ="2008-01-01" end ="2008-01-31"></attvalue>
+<attvalue for="freq" value="4.3333335" start ="2008-02-01" end ="2008-02-29"></attvalue>
+<attvalue for="freq" value="4.25" start ="2008-03-01" end ="2008-03-31"></attvalue>
+<attvalue for="freq" value="4.1666665" start ="2008-04-01" end ="2008-04-30"></attvalue>
+<attvalue for="freq" value="4.0833335" start ="2008-05-01" end ="2008-05-31"></attvalue>
+<attvalue for="freq" value="4.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="4.75" start ="2008-07-01" end ="2008-07-31"></attvalue>
+<attvalue for="freq" value="5.5" start ="2008-08-01" end ="2008-08-31"></attvalue>
+<attvalue for="freq" value="6.25" start ="2008-09-01" end ="2008-09-30"></attvalue>
+<attvalue for="freq" value="7.0" start ="2008-10-01" end ="2008-10-31"></attvalue>
+<attvalue for="freq" value="7.75" start ="2008-11-01" end ="2008-11-30"></attvalue>
+<attvalue for="freq" value="8.5" start ="2008-12-01" end ="2008-12-31"></attvalue>
+<attvalue for="freq" value="9.25" start ="2009-01-01" end ="2009-01-31"></attvalue>
+<attvalue for="freq" value="10.0" start ="2009-02-01" end ="2009-02-28"></attvalue>
+<attvalue for="freq" value="10.75" start ="2009-03-01" end ="2009-03-31"></attvalue>
+<attvalue for="freq" value="11.5" start ="2009-04-01" end ="2009-04-30"></attvalue>
+<attvalue for="freq" value="12.25" start ="2009-05-01" end ="2009-05-31"></attvalue>
+<attvalue for="freq" value="13.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="12.333333" start ="2009-07-01" end ="2009-07-31"></attvalue>
+<attvalue for="freq" value="11.666667" start ="2009-08-01" end ="2009-08-31"></attvalue>
+<attvalue for="freq" value="11.0" start ="2009-09-01" end ="2009-09-30"></attvalue>
+<attvalue for="freq" value="10.333333" start ="2009-10-01" end ="2009-10-31"></attvalue>
+<attvalue for="freq" value="9.666666" start ="2009-11-01" end ="2009-11-30"></attvalue>
+<attvalue for="freq" value="9.0" start ="2009-12-01" end ="2009-12-31"></attvalue>
+<attvalue for="freq" value="8.333334" start ="2010-01-01" end ="2010-01-31"></attvalue>
+<attvalue for="freq" value="7.666667" start ="2010-02-01" end ="2010-02-28"></attvalue>
+<attvalue for="freq" value="7.0" start ="2010-03-01" end ="2010-03-31"></attvalue>
+<attvalue for="freq" value="6.3333335" start ="2010-04-01" end ="2010-04-30"></attvalue>
+<attvalue for="freq" value="5.6666665" start ="2010-05-01" end ="2010-05-31"></attvalue>
+<attvalue for="freq" value="5.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="5.1666665" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="5.3333335" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="5.5" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="5.6666665" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="5.8333335" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="6.0" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="6.1666665" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="6.3333335" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="6.5" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="6.6666665" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="6.8333335" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="7.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="6.5" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="6.0" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="5.5" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="5.0" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="4.5" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="4.0" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="3.5" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="2.5" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-180.14697" y="103.053986"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="178" label="psychology, clinical">
+      <node id="178" label="psychology, clinical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -1464,7 +2094,7 @@
         <viz:position x="-247.69972" y="204.84471"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="181" label="psychology, experimental">
+      <node id="181" label="psychology, experimental" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -1472,7 +2102,7 @@
         <viz:position x="-260.022" y="201.98758"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="182" label="psychology, mathematical">
+      <node id="182" label="psychology, mathematical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="6"></attvalue>
         </attvalues>
@@ -1480,7 +2110,7 @@
         <viz:position x="-265.0006" y="197.30884"></viz:position>
         <viz:color r="51" g="204" b="51"></viz:color>
       </node>
-      <node id="144" label="nursing">
+      <node id="144" label="nursing" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -1488,7 +2118,7 @@
         <viz:position x="-195.7582" y="82.53839"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="146" label="obstetrics and gynecology">
+      <node id="146" label="obstetrics and gynecology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1496,7 +2126,7 @@
         <viz:position x="-103.780754" y="-52.701588"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="150" label="ophthalmology">
+      <node id="150" label="ophthalmology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -1504,7 +2134,7 @@
         <viz:position x="-41.142715" y="-12.672669"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="157" label="pathology">
+      <node id="157" label="pathology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1512,15 +2142,74 @@
         <viz:position x="-98.01679" y="-86.78988"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="158" label="pediatrics">
+      <node id="158" label="pediatrics" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2005-07-01" end ="2005-07-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2005-08-01" end ="2005-08-31"></attvalue>
+<attvalue for="freq" value="1.25" start ="2005-09-01" end ="2005-09-30"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2005-10-01" end ="2005-10-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2005-11-01" end ="2005-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2005-12-01" end ="2005-12-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-01-01" end ="2006-01-31"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-02-01" end ="2006-02-28"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-03-01" end ="2006-03-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-04-01" end ="2006-04-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-05-01" end ="2006-05-31"></attvalue>
+<attvalue for="freq" value="2.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.9166666" start ="2006-07-01" end ="2006-07-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2006-08-01" end ="2006-08-31"></attvalue>
+<attvalue for="freq" value="1.75" start ="2006-09-01" end ="2006-09-30"></attvalue>
+<attvalue for="freq" value="1.6666666" start ="2006-10-01" end ="2006-10-31"></attvalue>
+<attvalue for="freq" value="1.5833333" start ="2006-11-01" end ="2006-11-30"></attvalue>
+<attvalue for="freq" value="1.5" start ="2006-12-01" end ="2006-12-31"></attvalue>
+<attvalue for="freq" value="1.4166667" start ="2007-01-01" end ="2007-01-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2007-02-01" end ="2007-02-28"></attvalue>
+<attvalue for="freq" value="1.25" start ="2007-03-01" end ="2007-03-31"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2007-04-01" end ="2007-04-30"></attvalue>
+<attvalue for="freq" value="1.0833334" start ="2007-05-01" end ="2007-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2010-07-01" end ="2010-07-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2010-08-01" end ="2010-08-31"></attvalue>
+<attvalue for="freq" value="1.5" start ="2010-09-01" end ="2010-09-30"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2010-10-01" end ="2010-10-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2010-11-01" end ="2010-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2010-12-01" end ="2010-12-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2011-01-01" end ="2011-01-31"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2011-02-01" end ="2011-02-28"></attvalue>
+<attvalue for="freq" value="2.5" start ="2011-03-01" end ="2011-03-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2011-04-01" end ="2011-04-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2011-05-01" end ="2011-05-31"></attvalue>
+<attvalue for="freq" value="3.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="2.8333333" start ="2011-07-01" end ="2011-07-31"></attvalue>
+<attvalue for="freq" value="2.6666667" start ="2011-08-01" end ="2011-08-31"></attvalue>
+<attvalue for="freq" value="2.5" start ="2011-09-01" end ="2011-09-30"></attvalue>
+<attvalue for="freq" value="2.3333333" start ="2011-10-01" end ="2011-10-31"></attvalue>
+<attvalue for="freq" value="2.1666665" start ="2011-11-01" end ="2011-11-30"></attvalue>
+<attvalue for="freq" value="2.0" start ="2011-12-01" end ="2011-12-31"></attvalue>
+<attvalue for="freq" value="1.8333334" start ="2012-01-01" end ="2012-01-31"></attvalue>
+<attvalue for="freq" value="1.6666667" start ="2012-02-01" end ="2012-02-29"></attvalue>
+<attvalue for="freq" value="1.5" start ="2012-03-01" end ="2012-03-31"></attvalue>
+<attvalue for="freq" value="1.3333334" start ="2012-04-01" end ="2012-04-30"></attvalue>
+<attvalue for="freq" value="1.1666666" start ="2012-05-01" end ="2012-05-31"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-158.39651" y="-29.49371"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="159" label="peripheral vascular disease">
+      <node id="159" label="peripheral vascular disease" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1528,15 +2217,30 @@
         <viz:position x="-111.664734" y="-66.1119"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="169" label="physiology">
+      <node id="169" label="physiology" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-73.94373" y="-61.228092"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="171" label="plant sciences">
+      <node id="171" label="plant sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="14"></attvalue>
         </attvalues>
@@ -1544,7 +2248,7 @@
         <viz:position x="4.2003284" y="-197.14714"></viz:position>
         <viz:color r="0" g="111" b="145"></viz:color>
       </node>
-      <node id="6" label="allergy">
+      <node id="6" label="allergy" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="15"></attvalue>
         </attvalues>
@@ -1552,7 +2256,7 @@
         <viz:position x="-150.7221" y="-131.75337"></viz:position>
         <viz:color r="255" g="204" b="204"></viz:color>
       </node>
-      <node id="16" label="biochemistry and molecular biology">
+      <node id="16" label="biochemistry and molecular biology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="1"></attvalue>
         </attvalues>
@@ -1560,7 +2264,7 @@
         <viz:position x="-25.234465" y="-127.64675"></viz:position>
         <viz:color r="0" g="255" b="0"></viz:color>
       </node>
-      <node id="17" label="biodiversity conservation">
+      <node id="17" label="biodiversity conservation" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -1568,7 +2272,7 @@
         <viz:position x="88.09655" y="-247.07588"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="49" label="ecology">
+      <node id="49" label="ecology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="7"></attvalue>
         </attvalues>
@@ -1576,7 +2280,7 @@
         <viz:position x="69.13493" y="-241.30075"></viz:position>
         <viz:color r="0" g="153" b="0"></viz:color>
       </node>
-      <node id="61" label="engineering, civil">
+      <node id="61" label="engineering, civil" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -1584,7 +2288,7 @@
         <viz:position x="252.45049" y="-220.62473"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="63" label="engineering, environmental">
+      <node id="63" label="engineering, environmental" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="13"></attvalue>
         </attvalues>
@@ -1592,7 +2296,7 @@
         <viz:position x="178.31374" y="-230.45831"></viz:position>
         <viz:color r="255" g="102" b="0"></viz:color>
       </node>
-      <node id="32" label="clinical neurology">
+      <node id="32" label="clinical neurology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -1600,7 +2304,7 @@
         <viz:position x="-124.72282" y="11.295647"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="35" label="computer science, cybernetics">
+      <node id="35" label="computer science, cybernetics" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="3"></attvalue>
         </attvalues>
@@ -1608,7 +2312,7 @@
         <viz:position x="205.21901" y="-14.905668"></viz:position>
         <viz:color r="255" g="153" b="255"></viz:color>
       </node>
-      <node id="43" label="critical care medicine">
+      <node id="43" label="critical care medicine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1616,7 +2320,7 @@
         <viz:position x="-149.84903" y="-56.329453"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="47" label="dermatology">
+      <node id="47" label="dermatology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1624,7 +2328,7 @@
         <viz:position x="-133.77414" y="-152.23921"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="46" label="dentistry, oral surgery and medicine">
+      <node id="46" label="dentistry, oral surgery and medicine" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1632,7 +2336,7 @@
         <viz:position x="25.006916" y="-25.8122"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="59" label="engineering, biomedical">
+      <node id="59" label="engineering, biomedical" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1640,7 +2344,7 @@
         <viz:position x="-14.528002" y="-45.830112"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="95" label="history">
+      <node id="95" label="history" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -1648,7 +2352,7 @@
         <viz:position x="-323.7214" y="410.01947"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="99" label="hospitality, leisure, sport and tourism">
+      <node id="99" label="hospitality, leisure, sport and tourism" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -1656,7 +2360,7 @@
         <viz:position x="-299.12656" y="369.4913"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="102" label="industrial relations and labor">
+      <node id="102" label="industrial relations and labor" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1664,7 +2368,7 @@
         <viz:position x="-281.74457" y="387.26974"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="104" label="information science and library science">
+      <node id="104" label="information science and library science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="18"></attvalue>
         </attvalues>
@@ -1672,7 +2376,7 @@
         <viz:position x="-209.05455" y="336.10495"></viz:position>
         <viz:color r="255" g="0" b="255"></viz:color>
       </node>
-      <node id="107" label="international relations">
+      <node id="107" label="international relations" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1680,7 +2384,7 @@
         <viz:position x="-299.63596" y="421.81552"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="108" label="law">
+      <node id="108" label="law" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1688,7 +2392,7 @@
         <viz:position x="-328.5269" y="347.87192"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="170" label="planning and development">
+      <node id="170" label="planning and development" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1696,7 +2400,7 @@
         <viz:position x="-279.72455" y="395.60205"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="172" label="political science">
+      <node id="172" label="political science" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1704,7 +2408,7 @@
         <viz:position x="-309.06943" y="402.8014"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="187" label="public, environmental and occupational health">
+      <node id="187" label="public, environmental and occupational health" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="11"></attvalue>
         </attvalues>
@@ -1712,7 +2416,7 @@
         <viz:position x="-163.29837" y="63.60568"></viz:position>
         <viz:color r="255" g="120" b="158"></viz:color>
       </node>
-      <node id="189" label="rehabilitation">
+      <node id="189" label="rehabilitation" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="10"></attvalue>
         </attvalues>
@@ -1720,7 +2424,7 @@
         <viz:position x="-193.19089" y="68.05668"></viz:position>
         <viz:color r="255" g="181" b="41"></viz:color>
       </node>
-      <node id="193" label="rheumatology">
+      <node id="193" label="rheumatology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1728,7 +2432,7 @@
         <viz:position x="-179.395" y="-81.57151"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="203" label="sport sciences">
+      <node id="203" label="sport sciences" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="4"></attvalue>
         </attvalues>
@@ -1736,15 +2440,30 @@
         <viz:position x="-164.44405" y="-9.174566"></viz:position>
         <viz:color r="255" g="0" b="0"></viz:color>
       </node>
-      <node id="186" label="public administration">
+      <node id="186" label="public administration" start="1998-01-01" end="2012-12-31">
         <attvalues>
+<attvalue for="freq" value="1.0" start ="1998-06-01" end ="1998-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="1999-06-01" end ="1999-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2000-06-01" end ="2000-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2001-06-01" end ="2001-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2002-06-01" end ="2002-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2003-06-01" end ="2003-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2004-06-01" end ="2004-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2005-06-01" end ="2005-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2006-06-01" end ="2006-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2007-06-01" end ="2007-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2008-06-01" end ="2008-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2009-06-01" end ="2009-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2010-06-01" end ="2010-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2011-06-01" end ="2011-06-30"></attvalue>
+<attvalue for="freq" value="1.0" start ="2012-06-01" end ="2012-06-30"></attvalue>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
         <viz:position x="-295.8884" y="393.0019"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="197" label="social sciences, interdisciplinary">
+      <node id="197" label="social sciences, interdisciplinary" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
@@ -1752,7 +2471,7 @@
         <viz:position x="-269.6885" y="310.15637"></viz:position>
         <viz:color r="255" g="255" b="0"></viz:color>
       </node>
-      <node id="198" label="social sciences, mathematical methods">
+      <node id="198" label="social sciences, mathematical methods" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="5"></attvalue>
         </attvalues>
@@ -1760,7 +2479,7 @@
         <viz:position x="-240.63152" y="377.33707"></viz:position>
         <viz:color r="204" g="255" b="153"></viz:color>
       </node>
-      <node id="200" label="sociology">
+      <node id="200" label="sociology" start="1998-01-01" end="2012-12-31">
         <attvalues>
           <attvalue for="1" value="16"></attvalue>
         </attvalues>
