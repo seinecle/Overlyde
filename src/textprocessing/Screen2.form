@@ -51,11 +51,11 @@
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
                       <Component id="jButton1" min="-2" max="-2" attributes="0"/>
-                      <Component id="jLabel3" min="-2" pref="245" max="-2" attributes="0"/>
                       <Component id="SC" min="-2" max="-2" attributes="0"/>
                       <Component id="WC" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel3" alignment="0" min="-2" pref="284" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="65" max="32767" attributes="0"/>
+                  <EmptySpace pref="26" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -109,7 +109,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
-            <Property name="text" type="java.lang.String" value="&lt;html&gt;credits for the maps:  &lt;a href=\u005c&quot;http://www.leydesdorff.net/overlaytoolkit/\u005c&quot;&gt;Leydesdorff et al.&lt;/a&gt;&lt;/html&gt;" containsInvalidXMLChars="true"/>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;credits for the maps:  &lt;a href=\u005c&quot;http://www.leydesdorff.net/overlaytoolkit/\u005c&quot;&gt;Rafols, Leydesdorff et al.&lt;/a&gt;&lt;/html&gt;" containsInvalidXMLChars="true"/>
           </Properties>
           <Events>
             <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel3MouseClicked"/>

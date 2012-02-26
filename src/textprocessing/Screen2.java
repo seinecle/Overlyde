@@ -65,7 +65,7 @@ public class Screen2 extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setText("<html>credits for the maps:  <a href=\\\"http://www.leydesdorff.net/overlaytoolkit/\\\">Leydesdorff et al.</a></html>");
+        jLabel3.setText("<html>credits for the maps:  <a href=\\\"http://www.leydesdorff.net/overlaytoolkit/\\\">Rafols, Leydesdorff et al.</a></html>");
         jLabel3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel3MouseClicked(evt);
@@ -96,10 +96,10 @@ public class Screen2 extends javax.swing.JFrame {
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel1)
                     .addComponent(jButton1)
-                    .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 245, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(SC)
-                    .addComponent(WC))
-                .addContainerGap(65, Short.MAX_VALUE))
+                    .addComponent(WC)
+                    .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 284, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(26, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
