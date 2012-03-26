@@ -25,6 +25,7 @@ public class Screen1 extends javax.swing.JFrame {
     public static Screen1 screen1;
     public static Screen2 screen2;
     public String SCorWC = "WC";
+    public String webOrList = "web";
 
     /**
      * Creates new form Screen1
@@ -213,16 +214,17 @@ public class Screen1 extends javax.swing.JFrame {
 
 
                 String[] args;
-                args = new String[4];
+                args = new String[5];
                 args[0] = workingDirectory;
                 args[1] = fileSelectedPathANdName;
                 args[2] = fileSelectedName;
                 args[3] = SCorWC;
+                args[3] = webOrList;
                 Screen1.jProgressBar1.setVisible(true);
 
 
 
-                Runnable r = new textprocessing.Main(args[0], args[2],args[3]);
+                Runnable r = new textprocessing.Main(args[0], args[2],args[3],args[4]);
                 new Thread(r).start();
                 
 

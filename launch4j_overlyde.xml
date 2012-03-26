@@ -1,7 +1,7 @@
 <launch4jConfig>
-  <dontWrapJar>false</dontWrapJar>
+  <dontWrapJar>true</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\C. Levallois\Documents\NetBeansProjects\Overlyde\dist\Overlyde.jar</jar>
+  <jar>overlyde.jar</jar>
   <outfile>C:\Users\C. Levallois\Documents\NetBeansProjects\Overlyde\dist\overlyde.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
@@ -15,7 +15,7 @@
   <icon></icon>
   <jre>
     <path></path>
-    <minVersion>1.5.1</minVersion>
+    <minVersion>1.6.1</minVersion>
     <maxVersion></maxVersion>
     <jdkPreference>preferJre</jdkPreference>
   </jre>

@@ -18,7 +18,7 @@ import java.util.HashMap;
 public class SubjectCategoryImporter {
 
     static String wk = "D:\\Docs Pro Clement\\E-projects\\OverlayToolkit\\";
-    static String file = "erasmus.txt";
+    static String file = "gambling.txt";
     static String currLine;
     static String currYear;
     static String[] currWCs;

@@ -35,13 +35,15 @@ public class Main implements Runnable {
     static int count = 0;
     static InputStream nudeMap;
     static int nbLines;
+    private static String webOrList;
 
 
-    public Main(String wk, String file,String SCorWC) {
+    public Main(String wk, String file,String SCorWC, String webOrList) {
 
         Main.wk = wk+"\\";
         Main.file = file;
         Main.SCorWC = SCorWC;
+        Main.webOrList = webOrList;
         System.out.println(SCorWC);
 
     }
@@ -49,9 +51,15 @@ public class Main implements Runnable {
     @Override
     public void run() {
         try {
+            if (webOrList.equals("web")){
             IsiParser ip = new IsiParser();
            
-            map = ip.run();
+            map = ip.run();}
+            else{
+                
+                map = SubjectCategoryImporter.run();
+            
+            }
 
             DynamicSizeForGexf dyn = new DynamicSizeForGexf(map);
             Thread t = new Thread(dyn, "Code Executer");
